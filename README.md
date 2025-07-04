@@ -1,6 +1,9 @@
 # Image-Classification-Using-KNN-with-Histogram-and-Custom-Features
 A Python-based image classification system that uses histogram and custom contour-based features to classify images into "cloudy", "shine", or "sunrise" categories using KNN. Features are extracted, saved, and evaluated with training, validation, and testing phases.
 
+# NOTE
+Can't upload dataset.zip because file size limitations. Will provide upon request if needed.
+
 # Image Classification Using KNN
 This project implements an image classification pipeline for three classes of natural scene images: cloudy, shine, and sunrise. It uses two feature extraction techniques and classifies images with the K-Nearest Neighbors (KNN) algorithm.
 
